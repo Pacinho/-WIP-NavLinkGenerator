@@ -1,0 +1,24 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\link\\plugins\\navlinkgenerator\\intermediate\\build\\win64\\unrealeditor\\development\\navlinkgenerator\\module.navlinkgenerator.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\link\\intermediate\\build\\win64\\linkeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\link\\plugins\\navlinkgenerator\\intermediate\\build\\win64\\unrealeditor\\development\\navlinkgenerator\\definitions.navlinkgenerator.h",
+            "c:\\link\\plugins\\navlinkgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\navlinkgenerator\\customnavlinkproxy.gen.cpp",
+            "c:\\link\\plugins\\navlinkgenerator\\source\\navlinkgenerator\\public\\customnavlinkproxy.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\aimodule\\classes\\navigation\\navlinkproxy.h",
+            "c:\\ue_5.0\\engine\\source\\runtime\\navigationsystem\\public\\navlinkhostinterface.h",
+            "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\navigationsystem\\navlinkhostinterface.generated.h",
+            "c:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\navlinkproxy.generated.h",
+            "c:\\link\\plugins\\navlinkgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\navlinkgenerator\\customnavlinkproxy.generated.h",
+            "c:\\link\\plugins\\navlinkgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\navlinkgenerator\\gensettings.gen.cpp",
+            "c:\\link\\plugins\\navlinkgenerator\\source\\navlinkgenerator\\public\\gensettings.h",
+            "c:\\link\\plugins\\navlinkgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\navlinkgenerator\\gensettings.generated.h",
+            "c:\\link\\plugins\\navlinkgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\navlinkgenerator\\navlinkgenerator.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

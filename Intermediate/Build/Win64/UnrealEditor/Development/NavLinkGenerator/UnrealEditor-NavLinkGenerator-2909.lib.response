@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NavLinkGenerator-2909.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Link\Intermediate\Build\Win64\LinkEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Link\Plugins\NavLinkGenerator\Intermediate\Build\Win64\UnrealEditor\Development\NavLinkGenerator\Module.NavLinkGenerator.cpp.obj"
+"C:\Link\Plugins\NavLinkGenerator\Intermediate\Build\Win64\UnrealEditor\Development\NavLinkGenerator\Module.NavLinkGenerator.gen.cpp.obj"
+"C:\Link\Plugins\NavLinkGenerator\Intermediate\Build\Win64\UnrealEditor\Development\NavLinkGenerator\Default.rc2.res"
+/OUT:"C:\Link\Plugins\NavLinkGenerator\Intermediate\Build\Win64\UnrealEditor\Development\NavLinkGenerator\UnrealEditor-NavLinkGenerator-2909.lib"

@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NavLinkGenerator.cpp.obj": [
+			"CustomNavLinkProxy.gen.cpp.obj",
+			"GenSettings.gen.cpp.obj",
+			"NavLinkGenerator.init.gen.cpp.obj",
+			"CustomNavLinkProxy.cpp.obj",
+			"GenSettings.cpp.obj",
+			"NavLinkDestroyButton.cpp.obj",
+			"NavLinkGenerator.cpp.obj",
+			"NavLinkGeneratorCommands.cpp.obj",
+			"NavLinkGeneratorStyle.cpp.obj"
+		]
+	}
+}
